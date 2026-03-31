@@ -1,5 +1,5 @@
 function verifLetras() {
-    let letra = prompt("Insira uma letra: ");
+    let letra = prompt("Digite uma letra: ");
     letra = letra.toLowerCase();
 
     if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
