@@ -3,9 +3,9 @@ function transfNumero() {
 
     if (numero % 2 == 0) {
         numero += 1;
-        alert("O número era par, transformando-o em ímpar: " + numero);
+        console.log("O número era par, transformando-o em ímpar: " + numero);
     } else {
         numero -= 1;
-        alert("O número era ímpar, transformando-o em par: " + numero);
+        console.log("O número era ímpar, transformando-o em par: " + numero);
     }
 }
