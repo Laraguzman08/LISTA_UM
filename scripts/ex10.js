@@ -7,5 +7,5 @@ function folhaPagamento() {
     alert("Nome do funcionário: " + nome);
     alert("Salário bruto: " + salario);
     alert("Valor do desconto do INSS: " + desconto);
-    alert("Salário liquído: " + liquido);
+    alert("Salário líquido: " + liquido);
 }
